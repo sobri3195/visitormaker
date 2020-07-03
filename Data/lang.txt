@@ -1,0 +1,25 @@
+en-us, en
+de-de, de
+en-au, en
+en-gb, en
+en-zw, en
+fr-ca, fr
+fr-fr, fr
+fr-mc, fr
+sw
+sv-sv
+th
+ro
+uk
+vi
+cs
+hr,
+he,
+de,
+de-ch,
+ne,
+es,
+es-bo,
+es-co,
+es-do,
+es-ec
